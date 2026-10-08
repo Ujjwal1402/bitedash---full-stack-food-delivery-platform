@@ -1,0 +1,7 @@
+{
+  "name": "BiteDash - Full-Stack Food Delivery Platform",
+  "description": "Production-grade food delivery platform with multi-role portals (Customer, Restaurant Partner, Delivery Partner, Admin), live order tracking, relational database, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
